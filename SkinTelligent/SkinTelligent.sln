@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkinTelligent.Api", "SkinTelligent\SkinTelligent.Api.csproj", "{9D2DE0C0-EC45-46CA-9C68-6E9D8DDFF742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinTelIigent.Infrastructure", "SkinTelIigent.Infrastructure\SkinTelIigent.Infrastructure.csproj", "{F8426E27-10C4-4385-8266-78B098D147A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinTelIigent.Services", "SkinTelIigent.Services\SkinTelIigent.Services.csproj", "{FD033D55-EB00-45AA-A452-E12D7A6EBFCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinTelIigent.Contracts", "SkinTelIigent.Contracts\SkinTelIigent.Contracts.csproj", "{AD760008-9E3E-4D69-8D8B-B2F773BBDD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinTelIigent.Core", "SkinTelIigent.Core\SkinTelIigent.Core.csproj", "{7BD4A3C4-6D4D-42F4-AA3B-8D176C23C8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D2DE0C0-EC45-46CA-9C68-6E9D8DDFF742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2DE0C0-EC45-46CA-9C68-6E9D8DDFF742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2DE0C0-EC45-46CA-9C68-6E9D8DDFF742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2DE0C0-EC45-46CA-9C68-6E9D8DDFF742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8426E27-10C4-4385-8266-78B098D147A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8426E27-10C4-4385-8266-78B098D147A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8426E27-10C4-4385-8266-78B098D147A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8426E27-10C4-4385-8266-78B098D147A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD033D55-EB00-45AA-A452-E12D7A6EBFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD033D55-EB00-45AA-A452-E12D7A6EBFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD033D55-EB00-45AA-A452-E12D7A6EBFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD033D55-EB00-45AA-A452-E12D7A6EBFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD760008-9E3E-4D69-8D8B-B2F773BBDD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD760008-9E3E-4D69-8D8B-B2F773BBDD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD760008-9E3E-4D69-8D8B-B2F773BBDD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD760008-9E3E-4D69-8D8B-B2F773BBDD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD4A3C4-6D4D-42F4-AA3B-8D176C23C8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD4A3C4-6D4D-42F4-AA3B-8D176C23C8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD4A3C4-6D4D-42F4-AA3B-8D176C23C8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD4A3C4-6D4D-42F4-AA3B-8D176C23C8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E90D65C-3A77-4BFA-8B2C-07ED93442252}
+	EndGlobalSection
+EndGlobal

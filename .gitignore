@@ -1,0 +1,17 @@
+﻿# Ignore Visual Studio and Rider IDE files
+.vs/
+.idea/
+*.suo
+*.user
+*.sln.cache
+*.VC.db
+*.vscode/
+
+# Ignore build and bin/obj folders
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.apphost.exe
