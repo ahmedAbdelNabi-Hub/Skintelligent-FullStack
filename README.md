@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/20097779/README.md)# 🩺 Doctor Appointment & Clinic Management System
+[README.md](https://github.com/user-attachments/files/20097779/README.md)# Doctor Appointment & Clinic Management System
 
 **🗓 Duration:** Feb 2025 – May 2025  
 A full-stack healthcare management system for booking doctor appointments, managing clinics, and enabling real-time patient-doctor interaction. Built with clean architectural patterns and optimized for multi-role users.
@@ -98,15 +98,15 @@ Emphasizes:
 ---
 
 ## 📂 Project Structure
-
 \`\`\`
+
 ├── DoctorClinic.Api           
 ├── DoctorClinic.Application  
 ├── DoctorClinic.Domain       
 ├── DoctorClinic.Infrastructure
-├── DoctorClinic.Contracts     
-\`\`\`
+├── DoctorClinic.Contracts   
 
+\`\`\`
 ---
 
 ## 🔗 Repository
